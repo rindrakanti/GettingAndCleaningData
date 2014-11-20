@@ -1,11 +1,11 @@
-#This file describes the variables, the data, and any transformations that I have performed to clean up the data.
+####This file describes the variables, the data, and any transformations that I have performed to clean up the data.
 The site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 The data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-### The code in run_analysis.R is organized into multiple functions. 
-### The Main function invokes rest of the functions to achieve the results.
+#### The code in run_analysis.R is organized into multiple functions. 
+#### The Main function invokes rest of the functions to achieve the results.
 
-##The run_analysis.R script performs the following steps to clean the data: 
+#### The run_analysis.R script performs the following steps to clean the data: 
 
 1. The Main function calls the download.data function which downloads the data from the following URL to the “data” folder in the current directory. 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
