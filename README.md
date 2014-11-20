@@ -4,7 +4,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 List of files and Description:
 ===================
-1) README.md - this file describing the overview of the 
+1) README.md - this file describing the overview. 
 2) run_analysis.R : R source code
 3) CodeBook.docx - Describing the logic of the R source code and variables used.
 4) merged_data.txt - 1st output file with clean merged data set of 10299*68 dimension.
